@@ -1,2 +1,4 @@
-# This is just to deploy to heroku.
-<?php include_once("home.html"); ?>
+<?php
+  # This is just to deploy to heroku.
+  include_once("home.html");
+?>
